@@ -75,7 +75,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 plugins:
-  - simple
+#  - simple
   - search
   - i18n:
       reconfigure_material: true
