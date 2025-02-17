@@ -77,17 +77,17 @@ markdown_extensions:
 plugins:
 #  - simple
   - search
-  - i18n:
-      reconfigure_material: true
-      docs_structure: suffix
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: fr
-          name: Français
-          build: true
+#  - i18n:
+#      reconfigure_material: true
+#      docs_structure: suffix
+#      languages:
+#        - locale: en
+#          default: true
+#          name: English
+#          build: true
+#        - locale: fr
+#          name: Français
+#          build: true
 extra:
   consent:
     title: Cookie consent
